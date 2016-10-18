@@ -1,2 +1,2 @@
 FROM scratch
-ADD test.txt
+ADD test.txt /
